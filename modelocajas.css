@@ -1,0 +1,16 @@
+div p {
+	text-align: center;
+	border:black 3px dashed;
+	background-color: white;
+	padding:10px 0px;
+	margin:50px;
+	text-indent: 80px;
+	text-transform: uppercase;
+}
+div{ 
+    border: purple 10px solid;
+    background-color: pink;
+	padding:10px 5px 40px 55px;
+	margin:10px;
+	border-radius: 10px;
+}
